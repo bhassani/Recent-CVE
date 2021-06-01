@@ -1,0 +1,5 @@
+#define BUFFER_SIZE MAX_PATH * 2
+#define VBoxDrvDispName L"Steam Drivers"
+#define VBoxDrvRegPath   L"\\Registry\\Machine\\System\\CurrentControlSet\\Services\\vboxdrv"
+#define VBoxDrvDevName  L"\\Device\\VBoxDrv"
+复制代码
