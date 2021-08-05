@@ -17,8 +17,9 @@ CVE-2021-21972 - VMware's HTML5 client vSphere hybrid cloud suite RCE<br />
 CVE-2020-14882 - Oracle's WebLogic Server remote code execution<br />
 CVE-2020-2555 - Oracle's WebLogic Server remote code execution<br />
 
-
-TO ADD:
+<br />
+<br />
+TO ADD:<br />
 CVE-2021-27065 - ProxyLogon <br />
 CVE-2021-22986 - F5 BIG-IP 16.0.x - iControl REST Remote Code Execution<br />
 CVE-2020-1472 - NetLogon<br />
