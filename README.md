@@ -16,3 +16,13 @@ CVE-2019-19781 - Citrix (Netscaler) ADC load-balancers<br />
 CVE-2021-21972 - VMware's HTML5 client vSphere hybrid cloud suite RCE<br />
 CVE-2020-14882 - Oracle's WebLogic Server remote code execution<br />
 CVE-2020-2555 - Oracle's WebLogic Server remote code execution<br />
+
+
+TO ADD:
+CVE-2021-27065 - ProxyLogon <br />
+CVE-2021-22986 - F5 BIG-IP 16.0.x - iControl REST Remote Code Execution<br />
+CVE-2020-1472 - NetLogon<br />
+CVE-2021-26855 / CVE-2021-26857 / CVE-2021-26858 - Microsoft Exchange Server Remote Code Execution Vulnerability<br />
+CVE-2020-1337 – PrintDemon<br />
+CVE-2020-1048 - PrintDemon<br />
+CVE-2021-1675 - PrinterNightmare <br />
